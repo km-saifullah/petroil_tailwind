@@ -8,6 +8,7 @@ tailwind.config = {
         primary: "#F40404",
         headerBG: "#282828",
         paragraphColo: "#6C6C6C",
+        navbarBG: "#F40404",
       },
       fontFamily: {
         poppins: "'Poppins', sans-serif",
