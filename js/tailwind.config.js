@@ -16,6 +16,9 @@ tailwind.config = {
       backgroundImage: {
         banner: "url('./images/banner.jpg')",
         road: "url('./images/road.jpg')",
+        worker: "url('./images/worker.jpg')",
+        plan: "url('./images/plan.png')",
+        singlePipe: "url('./images/pipe_single.png')",
       },
     },
   },
