@@ -13,6 +13,9 @@ tailwind.config = {
       fontFamily: {
         poppins: "'Poppins', sans-serif",
       },
+      backgroundImage: {
+        banner: "url('./images/banner.jpg')",
+      },
     },
   },
 };
